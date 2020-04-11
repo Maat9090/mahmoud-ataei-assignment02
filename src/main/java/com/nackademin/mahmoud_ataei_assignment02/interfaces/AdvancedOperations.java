@@ -5,9 +5,9 @@ public interface AdvancedOperations {
 
 	public double squareRoot(double number);
 
-	public double raisedToThePowerOf(double base, double exponent);
-
 	public double log(double number);
+
+	public double raisedToThePowerOf(double base, double exponent);
 
 	public double absluteValue(double number);
 

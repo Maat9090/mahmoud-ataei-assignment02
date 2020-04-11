@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="22" passed="22">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="8850" started-at="2020-04-11T01:05:19Z" finished-at="2020-04-11T01:05:28Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="8850" started-at="2020-04-11T01:05:19Z" finished-at="2020-04-11T01:05:28Z">
+      <class name="com.nackademin.mahmoud_ataei_assignment02.AdvancedCalculatorTest">
+        <test-method status="PASS" signature="testAbsluteValuePositive()[pri:0, instance:testAbsluteValuePositive(com.nackademin.mahmoud_ataei_assignment02.AdvancedCalculatorTest)]" name="testAbsluteValuePositive" duration-ms="4" started-at="2020-04-11T03:05:21Z" finished-at="2020-04-11T03:05:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAbsluteValuePositive -->
+        <test-method status="PASS" signature="testAbsluteValueNegative()[pri:0, instance:testAbsluteValueNegative(com.nackademin.mahmoud_ataei_assignment02.AdvancedCalculatorTest)]" name="testAbsluteValueNegative" duration-ms="4" started-at="2020-04-11T03:05:21Z" finished-at="2020-04-11T03:05:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAbsluteValueNegative -->
+        <test-method status="PASS" signature="testSquareRootZero()[pri:0, instance:testSquareRootZero(com.nackademin.mahmoud_ataei_assignment02.AdvancedCalculatorTest)]" name="testSquareRootZero" duration-ms="0" started-at="2020-04-11T03:05:21Z" finished-at="2020-04-11T03:05:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSquareRootZero -->
+        <test-method status="PASS" signature="testSquareRootPositive()[pri:0, instance:testSquareRootPositive(com.nackademin.mahmoud_ataei_assignment02.AdvancedCalculatorTest)]" name="testSquareRootPositive" duration-ms="2" started-at="2020-04-11T03:05:21Z" finished-at="2020-04-11T03:05:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSquareRootPositive -->
+        <test-method status="PASS" signature="testLog()[pri:0, instance:testLog(com.nackademin.mahmoud_ataei_assignment02.AdvancedCalculatorTest)]" name="testLog" duration-ms="0" started-at="2020-04-11T03:05:21Z" finished-at="2020-04-11T03:05:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLog -->
+        <test-method status="PASS" signature="testSquarePositive()[pri:0, instance:testSquarePositive(com.nackademin.mahmoud_ataei_assignment02.AdvancedCalculatorTest)]" name="testSquarePositive" duration-ms="6754" started-at="2020-04-11T03:05:21Z" finished-at="2020-04-11T03:05:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSquarePositive -->
+        <test-method status="PASS" signature="testSquareNegative()[pri:0, instance:testSquareNegative(com.nackademin.mahmoud_ataei_assignment02.AdvancedCalculatorTest)]" name="testSquareNegative" duration-ms="6" started-at="2020-04-11T03:05:28Z" finished-at="2020-04-11T03:05:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSquareNegative -->
+        <test-method status="PASS" signature="TestRaisedToThePowerOfPositive()[pri:0, instance:TestRaisedToThePowerOfPositive(com.nackademin.mahmoud_ataei_assignment02.AdvancedCalculatorTest)]" name="TestRaisedToThePowerOfPositive" duration-ms="4" started-at="2020-04-11T03:05:28Z" finished-at="2020-04-11T03:05:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestRaisedToThePowerOfPositive -->
+        <test-method status="PASS" signature="testAbsluteValueZero()[pri:0, instance:testAbsluteValueZero(com.nackademin.mahmoud_ataei_assignment02.AdvancedCalculatorTest)]" name="testAbsluteValueZero" duration-ms="0" started-at="2020-04-11T03:05:28Z" finished-at="2020-04-11T03:05:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAbsluteValueZero -->
+        <test-method status="PASS" signature="TestRaisedToThePowerOfNegative()[pri:0, instance:TestRaisedToThePowerOfNegative(com.nackademin.mahmoud_ataei_assignment02.AdvancedCalculatorTest)]" name="TestRaisedToThePowerOfNegative" duration-ms="3" started-at="2020-04-11T03:05:28Z" finished-at="2020-04-11T03:05:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestRaisedToThePowerOfNegative -->
+        <test-method status="PASS" signature="testLogPositive()[pri:0, instance:testLogPositive(com.nackademin.mahmoud_ataei_assignment02.AdvancedCalculatorTest)]" name="testLogPositive" duration-ms="5" started-at="2020-04-11T03:05:28Z" finished-at="2020-04-11T03:05:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogPositive -->
+      </class> <!-- com.nackademin.mahmoud_ataei_assignment02.AdvancedCalculatorTest -->
+      <class name="com.nackademin.mahmoud_ataei_assignment02.BasicalculatorTest">
+        <test-method status="PASS" signature="testAdditionPositive()[pri:0, instance:testAdditionPositive(com.nackademin.mahmoud_ataei_assignment02.BasicalculatorTest)]" name="testAdditionPositive" duration-ms="49" started-at="2020-04-11T03:05:19Z" finished-at="2020-04-11T03:05:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdditionPositive -->
+        <test-method status="PASS" signature="testAdditionNegative()[pri:0, instance:testAdditionNegative(com.nackademin.mahmoud_ataei_assignment02.BasicalculatorTest)]" name="testAdditionNegative" duration-ms="57" started-at="2020-04-11T03:05:19Z" finished-at="2020-04-11T03:05:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdditionNegative -->
+        <test-method status="PASS" signature="testMultiplikationPositive()[pri:0, instance:testMultiplikationPositive(com.nackademin.mahmoud_ataei_assignment02.BasicalculatorTest)]" name="testMultiplikationPositive" duration-ms="66" started-at="2020-04-11T03:05:19Z" finished-at="2020-04-11T03:05:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultiplikationPositive -->
+        <test-method status="PASS" signature="testMultiplikationNegative()[pri:0, instance:testMultiplikationNegative(com.nackademin.mahmoud_ataei_assignment02.BasicalculatorTest)]" name="testMultiplikationNegative" duration-ms="42" started-at="2020-04-11T03:05:20Z" finished-at="2020-04-11T03:05:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultiplikationNegative -->
+        <test-method status="PASS" signature="testSubtractionZero()[pri:0, instance:testSubtractionZero(com.nackademin.mahmoud_ataei_assignment02.BasicalculatorTest)]" name="testSubtractionZero" duration-ms="12" started-at="2020-04-11T03:05:20Z" finished-at="2020-04-11T03:05:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtractionZero -->
+        <test-method status="PASS" signature="testAdditionZero()[pri:0, instance:testAdditionZero(com.nackademin.mahmoud_ataei_assignment02.BasicalculatorTest)]" name="testAdditionZero" duration-ms="11" started-at="2020-04-11T03:05:20Z" finished-at="2020-04-11T03:05:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdditionZero -->
+        <test-method status="PASS" signature="testSubtractionPositive()[pri:0, instance:testSubtractionPositive(com.nackademin.mahmoud_ataei_assignment02.BasicalculatorTest)]" name="testSubtractionPositive" duration-ms="51" started-at="2020-04-11T03:05:20Z" finished-at="2020-04-11T03:05:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtractionPositive -->
+        <test-method status="PASS" signature="testMultiplikationZero()[pri:0, instance:testMultiplikationZero(com.nackademin.mahmoud_ataei_assignment02.BasicalculatorTest)]" name="testMultiplikationZero" duration-ms="2" started-at="2020-04-11T03:05:20Z" finished-at="2020-04-11T03:05:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultiplikationZero -->
+        <test-method status="PASS" signature="testSubtractionNegative()[pri:0, instance:testSubtractionNegative(com.nackademin.mahmoud_ataei_assignment02.BasicalculatorTest)]" name="testSubtractionNegative" duration-ms="55" started-at="2020-04-11T03:05:20Z" finished-at="2020-04-11T03:05:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtractionNegative -->
+        <test-method status="PASS" signature="testDivisionnPositive()[pri:0, instance:testDivisionnPositive(com.nackademin.mahmoud_ataei_assignment02.BasicalculatorTest)]" name="testDivisionnPositive" duration-ms="28" started-at="2020-04-11T03:05:20Z" finished-at="2020-04-11T03:05:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivisionnPositive -->
+        <test-method status="PASS" signature="testDivisionnNegative()[pri:0, instance:testDivisionnNegative(com.nackademin.mahmoud_ataei_assignment02.BasicalculatorTest)]" name="testDivisionnNegative" duration-ms="1422" started-at="2020-04-11T03:05:20Z" finished-at="2020-04-11T03:05:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivisionnNegative -->
+      </class> <!-- com.nackademin.mahmoud_ataei_assignment02.BasicalculatorTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

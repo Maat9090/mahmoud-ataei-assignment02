@@ -17,15 +17,15 @@ public class AdvancedCalculator extends BasicCalculator implements AdvancedOpera
 	}
 
 	@Override
-	public double raisedToThePowerOf(double base, double exponent) {
-
-		return Math.pow(base, exponent);
-	}
-
-	@Override
 	public double log(double number) {
 
 		return Math.log(number);
+	}
+
+	@Override
+	public double raisedToThePowerOf(double base, double exponent) {
+
+		return Math.pow(base, exponent);
 	}
 
 	@Override

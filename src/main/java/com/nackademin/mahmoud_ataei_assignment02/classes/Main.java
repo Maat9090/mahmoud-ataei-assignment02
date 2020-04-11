@@ -16,9 +16,9 @@ public class Main {
 		System.out.println("Square = " + ac.square(2));
 		System.out.println("division = " + ac.division(22, 10));
 		System.out.println("squareRoot = " + ac.squareRoot(16));
-		System.out.println("raised To The Power Of = "+ ac.raisedToThePowerOf(2, 4));
+		System.out.println("raised To The Power Of = " + ac.raisedToThePowerOf(2, 4));
 		System.out.println("log = " + ac.log(16));
-		System.out.println("abslute Value = "+ ac.absluteValue(-12));
+		System.out.println("abslute Value = " + ac.absluteValue(-12));
 
 	}
 
